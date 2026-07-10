@@ -94,11 +94,11 @@ document.addEventListener('DOMContentLoaded', function() {
     let greeting = '';
     
     if (currentHour < 12) {
-        greeting = '🌅 Good Morning!';
+        greeting = '🌅 Good Morning';
     } else if (currentHour < 17) {
-        greeting = '☀️ Good Afternoon!';
+        greeting = '☀️ Good Afternoon';
     } else {
-        greeting = '🌙 Good Evening!';
+        greeting = '🌙 Good Evening';
     }
     
     // Find the hero section and add a greeting
