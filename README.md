@@ -37,8 +37,8 @@ HTML5
 - Console welcome message
 
  How to View
-1. Live Website: https://dammzy15.github.io/itgy401-finalproject-Adekeye-Adedamola-Osaruyi/
-2. GitHub Repository: https://github.com/Dammzy15/itgy401-finalproject-Adekeye-Adedamola-Osaruyi/
+1. Live Website: https://dammzy15.github.io/itgy401-finalproject-Adekeye-Adedamola/
+2. GitHub Repository: https://github.com/Dammzy15/itgy401-finalproject-Adekeye-Adedamola/
 
  Credits & Acknowledgments
 - Fonts: Google Fonts
